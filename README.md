@@ -1,6 +1,5 @@
-# Web-Acessibilidade :man_student:
 
-### Generation - **Oceani** - Projeto de finalização do bootcamp :rocket: 
+### ENIAC - **Acessibilidade web** - Projeto de tcc :rocket: 
 ---
 <p align = "center">
 <a align href = "#Sobre">Sobre</a> │
@@ -44,4 +43,4 @@ Uma das grandes dificuldades que os programadores encontram ao desenvolverem seu
 
 
 ## Autores
-Made with :purple_heart: by [Fernando Marques](https://www.linkedin.com/in/fernando-pozo-marques-junior/) e [Marlon Silva](https://www.linkedin.com/in/marlon-silva-43075a184/))
+Made with by [Fernando Marques](https://www.linkedin.com/in/fernando-pozo-marques-junior/) e [Marlon Silva](https://www.linkedin.com/in/marlon-silva-43075a184/))
